@@ -1,4 +1,4 @@
 // Code your solution in this file!
 const returnFirstTwoDrivers = function(array){
-  array.splice(0, 1);
+  return array.splice(0, 1);
 };

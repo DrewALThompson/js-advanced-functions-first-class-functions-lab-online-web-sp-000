@@ -1,4 +1,4 @@
 // Code your solution in this file!
-const returnFirstTwoDrivers = function(array){
-  return array.splice(0, 2);
+const returnFirstTwoDrivers = function(driver){
+  return driver.slice(0, 2);
 };
